@@ -57,10 +57,8 @@ class LoginSerializer(serializers.Serializer):
                 user = User.objects.get(username = email_or_password)
             except User.DoesNotExist:
                 raise serializers.ValidationError("Wrong Name")
-
         if not user or not user.check_password(password):
             raise serializers.ValidationError("Wrong Password.")
-
         data["user"] = user
         return data
 

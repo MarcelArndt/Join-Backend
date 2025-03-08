@@ -1,0 +1,302 @@
+{
+    "tasks": [
+        {
+        "taskID":"T011",
+        "title":"Neues Framework testen",
+        "category":"Testing",
+        "currentProgress":2,
+        "description":"Ein neues Framework ausprobieren, das die Entwicklung von Frontend-Komponenten erleichtern soll.",
+        "dueDate":"2025-03-23",
+        "priority":"medium",
+        "color":"#3498db",
+        "assignedTo":[
+            {"contactID":"P7LqZ1W8Cm6TxO4V","name":"Quincy Weber","email":"quincy.weber@example.com","phone":"17432109876","initials":"QW","color":"#e74c3c"},
+            {"contactID":"A5MkR7xTnG8Z3HwD","name":"Karl Weber","email":"karl.weber@example.com","phone":"17654321098","initials":"KW","color":"#7f8c8d"},
+            {"contactID":"U2MwR8G3Sp0Vd1Xj","name":"Oliver Becker","email":"oliver.becker@example.com","phone":"17987654322","initials":"OB","color":"#f39c12"},
+            {"contactID":"Q1LuP7kIftYJtRgA","name":"Frank Hoffmann","email":"frank.hoffmann@example.com","phone":"17765432109","initials":"FH","color":"#2980b9"},
+            {"contactID":"Q7JbP1L0Hs2Zd9Kr","name":"Nina Müller","email":"nina.mueller@example.com","phone":"17876543211","initials":"NM","color":"#f1c40f"},
+            {"contactID":"Vj9CmYPd4WgkIbHt","name":"Clara Weber","email":"clara.weber@example.com","phone":"17394826541","initials":"CW","color":"#f39c12"},
+            {"contactID":"T3GzN2K6Cp9JzLqV","name":"Lena Schneider","email":"lena.schneider@example.com","phone":"17276543210","initials":"LS","color":"#2ecc71"},
+            {"contactID":"W3Z6dZ4hjTnqXcP2","name":"Gabriele Köhler","email":"gabriele.koehler@example.com","phone":"16876543210","initials":"GK","color":"#16a085"},
+            {"contactID":"Jd4Y8bVgJlmSkR9v","name":"Eva Schmidt","email":"eva.schmidt@example.com","phone":"17023456789","initials":"ES","color":"#9b59b6"},
+            {"contactID":"D4Oxh8R2qJk2i9Bt","name":"Heinz Wagner","email":"heinz.wagner@example.com","phone":"16543210987","initials":"HW","color":"#34495e"},
+            {"contactID":"R82d7Z8qj5JXpg4D","name":"David Müller","email":"david.mueller@example.com","phone":"17876543210","initials":"DM","color":"#e74c3c"},
+            {"contactID":"N5KhLxM7RwGjB9Ds","name":"Jan Bauer","email":"jan.bauer@example.com","phone":"17987654321","initials":"JB","color":"#c0392b"},
+            {"contactID":"V6N9CuI3Dr7i6vT1","name":"Isabella Fischer","email":"isabella.fischer@example.com","phone":"17456473821","initials":"IF","color":"#e67e22"},
+            {"contactID":"OknsyIS7PNlcblIQ","name":"Aida Steinbauer","email":"steinbauer@web.com","phone":"18227629765","initials":"AS","color":"#3904a3"}
+        ],
+        "subtasks":[
+            {"subTaskID":"ST1101","subTaskName":"Dokumentation des Frameworks durchlesen","done":false},
+            {"subTaskID":"ST1102","subTaskName":"Erste kleine Anwendung erstellen","done":false},
+            {"subTaskID":"ST1103","subTaskName":"Testen von UI-Komponenten","done":true}
+        ]},
+            {
+        "taskID":"T012",
+        "title":"Algorithmus optimieren",
+        "category":"technicalTask",
+        "currentProgress":3,
+        "description":"Einen bestehenden Algorithmus optimieren, um die Laufzeit zu verkürzen.",
+        "dueDate":"2025-03-27",
+        "priority":"urgent",
+        "color":"#e74c3c",
+        "assignedTo":[
+            {"contactID":"Q1LuP7kIftYJtRgA","name":"Frank Hoffmann","email":"frank.hoffmann@example.com","phone":"17765432109","initials":"FH","color":"#2980b9"},
+            {"contactID":"A5MkR7xTnG8Z3HwD","name":"Karl Weber","email":"karl.weber@example.com","phone":"17654321098","initials":"KW","color":"#7f8c8d"},
+            {"contactID":"U2MwR8G3Sp0Vd1Xj","name":"Oliver Becker","email":"oliver.becker@example.com","phone":"17987654322","initials":"OB","color":"#f39c12"},
+            {"contactID":"P7LqZ1W8Cm6TxO4V","name":"Quincy Weber","email":"quincy.weber@example.com","phone":"17432109876","initials":"QW","color":"#e74c3c"},
+            {"contactID":"T3GzN2K6Cp9JzLqV","name":"Lena Schneider","email":"lena.schneider@example.com","phone":"17276543210","initials":"LS","color":"#2ecc71"},
+            {"contactID":"V6N9CuI3Dr7i6vT1","name":"Isabella Fischer","email":"isabella.fischer@example.com","phone":"17456473821","initials":"IF","color":"#e67e22"},
+            {"contactID":"R82d7Z8qj5JXpg4D","name":"David Müller","email":"david.mueller@example.com","phone":"17876543210","initials":"DM","color":"#e74c3c"},
+            {"contactID":"W3Z6dZ4hjTnqXcP2","name":"Gabriele Köhler","email":"gabriele.koehler@example.com","phone":"16876543210","initials":"GK","color":"#16a085"},
+            {"contactID":"Vj9CmYPd4WgkIbHt","name":"Clara Weber","email":"clara.weber@example.com","phone":"17394826541","initials":"CW","color":"#f39c12"},
+            {"contactID":"N5KhLxM7RwGjB9Ds","name":"Jan Bauer","email":"jan.bauer@example.com","phone":"17987654321","initials":"JB","color":"#c0392b"},
+            {"contactID":"OknsyIS7PNlcblIQ","name":"Aida Steinbauer","email":"steinbauer@web.com","phone":"18227629765","initials":"AS","color":"#3904a3"},
+            {"contactID":"B1HcM5K9I2QwL0Yu","name":"Paul Fischer","email":"paul.fischer@example.com","phone":"17643210987","initials":"PF","color":"#8e44ad"},
+            {"contactID":"Q7JbP1L0Hs2Zd9Kr","name":"Nina Müller","email":"nina.mueller@example.com","phone":"17876543211","initials":"NM","color":"#f1c40f"},
+            {"contactID":"F9NmJ6QkH5p2ZrdG","name":"Matthias Hoffmann","email":"matthias.hoffmann@example.com","phone":"17123456789","initials":"MH","color":"#9b59b6"}
+        ],
+        "subtasks":[
+            {"subTaskID":"ST1201","subTaskName":"Code-Profiling durchführen","done":false},
+            {"subTaskID":"ST1202","subTaskName":"Engpässe analysieren und verbessern","done":true}
+        ]},
+        {
+        "taskID":"T013",
+        "title":"Bug im Code beheben",
+        "category":"bug",
+        "currentProgress":1,
+        "description":"Ein kritischer Bug im Code, der zu unerwarteten Abstürzen führt, beheben.",
+        "dueDate":"2025-04-19",
+        "priority":"low",
+        "color":"#f39c12",
+        "assignedTo":[
+            {"contactID":"GVx2BZkhf4LgHXwm","name":"Benjamin Kaufmann","email":"benjamin.kaufmann@example.com","phone":"17234218765","initials":"BK","color":"#1abc9c"},
+            {"contactID":"Jd4Y8bVgJlmSkR9v","name":"Eva Schmidt","email":"eva.schmidt@example.com","phone":"17023456789","initials":"ES","color":"#9b59b6"},
+            {"contactID":"B1HcM5K9I2QwL0Yu","name":"Paul Fischer","email":"paul.fischer@example.com","phone":"17643210987","initials":"PF","color":"#8e44ad"},
+            {"contactID":"P7LqZ1W8Cm6TxO4V","name":"Quincy Weber","email":"quincy.weber@example.com","phone":"17432109876","initials":"QW","color":"#e74c3c"},
+            {"contactID":"V6N9CuI3Dr7i6vT1","name":"Isabella Fischer","email":"isabella.fischer@example.com","phone":"17456473821","initials":"IF","color":"#e67e22"},
+            {"contactID":"A5MkR7xTnG8Z3HwD","name":"Karl Weber","email":"karl.weber@example.com","phone":"17654321098","initials":"KW","color":"#7f8c8d"},
+            {"contactID":"OknsyIS7PNlcblIQ","name":"Aida Steinbauer","email":"steinbauer@web.com","phone":"18227629765","initials":"AS","color":"#3904a3"},
+            {"contactID":"U2MwR8G3Sp0Vd1Xj","name":"Oliver Becker","email":"oliver.becker@example.com","phone":"17987654322","initials":"OB","color":"#f39c12"},
+            {"contactID":"W3Z6dZ4hjTnqXcP2","name":"Gabriele Köhler","email":"gabriele.koehler@example.com","phone":"16876543210","initials":"GK","color":"#16a085"},
+            {"contactID":"T3GzN2K6Cp9JzLqV","name":"Lena Schneider","email":"lena.schneider@example.com","phone":"17276543210","initials":"LS","color":"#2ecc71"},
+            {"contactID":"F9NmJ6QkH5p2ZrdG","name":"Matthias Hoffmann","email":"matthias.hoffmann@example.com","phone":"17123456789","initials":"MH","color":"#9b59b6"},
+            {"contactID":"D4Oxh8R2qJk2i9Bt","name":"Heinz Wagner","email":"heinz.wagner@example.com","phone":"16543210987","initials":"HW","color":"#34495e"}],
+        "subtasks":[
+            {"subTaskID":"ST1301","subTaskName":"Fehlerquelle finden","done":true},
+            {"subTaskID":"ST1302","subTaskName":"Bugfix implementieren","done":false}
+        ]},
+        {
+        "taskID":"T014",
+        "title":"Neue Datenbank anlegen",
+        "category":"technicalTask",
+        "currentProgress":3,
+        "description":"Eine neue relationale Datenbank für ein Projekt erstellen und verbinden.",
+        "dueDate":"2025-03-08",
+        "priority":"medium",
+        "color":"#16a085",
+        "assignedTo":[
+            {"contactID":"T3GzN2K6Cp9JzLqV","name":"Lena Schneider","email":"lena.schneider@example.com","phone":"17276543210","initials":"LS","color":"#2ecc71"},
+            {"contactID":"V6N9CuI3Dr7i6vT1","name":"Isabella Fischer","email":"isabella.fischer@example.com","phone":"17456473821","initials":"IF","color":"#e67e22"},
+            {"contactID":"B1HcM5K9I2QwL0Yu","name":"Paul Fischer","email":"paul.fischer@example.com","phone":"17643210987","initials":"PF","color":"#8e44ad"},
+            {"contactID":"A5MkR7xTnG8Z3HwD","name":"Karl Weber","email":"karl.weber@example.com","phone":"17654321098","initials":"KW","color":"#7f8c8d"},
+            {"contactID":"D4Oxh8R2qJk2i9Bt","name":"Heinz Wagner","email":"heinz.wagner@example.com","phone":"16543210987","initials":"HW","color":"#34495e"},
+            {"contactID":"P7LqZ1W8Cm6TxO4V","name":"Quincy Weber","email":"quincy.weber@example.com","phone":"17432109876","initials":"QW","color":"#e74c3c"},
+            {"contactID":"GVx2BZkhf4LgHXwm","name":"Benjamin Kaufmann","email":"benjamin.kaufmann@example.com","phone":"17234218765","initials":"BK","color":"#1abc9c"},
+            {"contactID":"Jd4Y8bVgJlmSkR9v","name":"Eva Schmidt","email":"eva.schmidt@example.com","phone":"17023456789","initials":"ES","color":"#9b59b6"},
+            {"contactID":"N5KhLxM7RwGjB9Ds","name":"Jan Bauer","email":"jan.bauer@example.com","phone":"17987654321","initials":"JB","color":"#c0392b"},
+            {"contactID":"U2MwR8G3Sp0Vd1Xj","name":"Oliver Becker","email":"oliver.becker@example.com","phone":"17987654322","initials":"OB","color":"#f39c12"}],
+        "subtasks":[
+            {"subTaskID":"ST1401","subTaskName":"Datenbank-Design entwerfen","done":false},
+            {"subTaskID":"ST1402","subTaskName":"Tabellen und Beziehungen definieren","done":false},
+            {"subTaskID":"ST1403","subTaskName":"Migration bestehender Daten","done":false},
+            {"subTaskID":"ST1404","subTaskName":"Datenbank-Backups einrichten","done":true}
+        ]},
+        {
+        "taskID":"T015",
+        "title":"Code-Review durchführen",
+        "category":"Analysis",
+        "currentProgress":1,
+        "description":"Den Code eines Kollegen durchsehen und Verbesserungsvorschläge machen.",
+        "dueDate":"2025-04-09",
+        "priority":"medium",
+        "color":"#9b59b6",
+        "assignedTo":[
+            {"contactID":"F9NmJ6QkH5p2ZrdG","name":"Matthias Hoffmann","email":"matthias.hoffmann@example.com","phone":"17123456789","initials":"MH","color":"#9b59b6"},
+            {"contactID":"OknsyIS7PNlcblIQ","name":"Aida Steinbauer","email":"steinbauer@web.com","phone":"18227629765","initials":"AS","color":"#3904a3"},
+            {"contactID":"Vj9CmYPd4WgkIbHt","name":"Clara Weber","email":"clara.weber@example.com","phone":"17394826541","initials":"CW","color":"#f39c12"},
+            {"contactID":"N5KhLxM7RwGjB9Ds","name":"Jan Bauer","email":"jan.bauer@example.com","phone":"17987654321","initials":"JB","color":"#c0392b"},
+            {"contactID":"D4Oxh8R2qJk2i9Bt","name":"Heinz Wagner","email":"heinz.wagner@example.com","phone":"16543210987","initials":"HW","color":"#34495e"},
+            {"contactID":"GVx2BZkhf4LgHXwm","name":"Benjamin Kaufmann","email":"benjamin.kaufmann@example.com","phone":"17234218765","initials":"BK","color":"#1abc9c"},
+            {"contactID":"W3Z6dZ4hjTnqXcP2","name":"Gabriele Köhler","email":"gabriele.koehler@example.com","phone":"16876543210","initials":"GK","color":"#16a085"},
+            {"contactID":"Jd4Y8bVgJlmSkR9v","name":"Eva Schmidt","email":"eva.schmidt@example.com","phone":"17023456789","initials":"ES","color":"#9b59b6"},
+            {"contactID":"Q7JbP1L0Hs2Zd9Kr","name":"Nina Müller","email":"nina.mueller@example.com","phone":"17876543211","initials":"NM","color":"#f1c40f"},
+            {"contactID":"R82d7Z8qj5JXpg4D","name":"David Müller","email":"david.mueller@example.com","phone":"17876543210","initials":"DM","color":"#e74c3c"},
+            {"contactID":"B1HcM5K9I2QwL0Yu","name":"Paul Fischer","email":"paul.fischer@example.com","phone":"17643210987","initials":"PF","color":"#8e44ad"}],
+        "subtasks":[
+            {"subTaskID":"ST1502","subTaskName":"Verbesserungsvorschläge dokumentieren","done":true}
+        ]},
+        {
+        "taskID":"T016",
+        "title":"Dokumentation für API schreiben",
+        "category":"documentation",
+        "currentProgress":0,
+        "description":"Die API, die du für das Projekt entwickelt hast, dokumentieren.",
+        "dueDate":"2025-07-26",
+        "priority":"low",
+        "color":"#2ecc71",
+        "assignedTo":[
+            {"contactID":"Q7JbP1L0Hs2Zd9Kr","name":"Nina Müller","email":"nina.mueller@example.com","phone":"17876543211","initials":"NM","color":"#f1c40f"},
+            {"contactID":"W3Z6dZ4hjTnqXcP2","name":"Gabriele Köhler","email":"gabriele.koehler@example.com","phone":"16876543210","initials":"GK","color":"#16a085"},
+            {"contactID":"V6N9CuI3Dr7i6vT1","name":"Isabella Fischer","email":"isabella.fischer@example.com","phone":"17456473821","initials":"IF","color":"#e67e22"},
+            {"contactID":"OknsyIS7PNlcblIQ","name":"Aida Steinbauer","email":"steinbauer@web.com","phone":"18227629765","initials":"AS","color":"#3904a3"},
+            {"contactID":"B1HcM5K9I2QwL0Yu","name":"Paul Fischer","email":"paul.fischer@example.com","phone":"17643210987","initials":"PF","color":"#8e44ad"},
+            {"contactID":"N5KhLxM7RwGjB9Ds","name":"Jan Bauer","email":"jan.bauer@example.com","phone":"17987654321","initials":"JB","color":"#c0392b"},
+            {"contactID":"U2MwR8G3Sp0Vd1Xj","name":"Oliver Becker","email":"oliver.becker@example.com","phone":"17987654322","initials":"OB","color":"#f39c12"},
+            {"contactID":"T3GzN2K6Cp9JzLqV","name":"Lena Schneider","email":"lena.schneider@example.com","phone":"17276543210","initials":"LS","color":"#2ecc71"},
+            {"contactID":"Vj9CmYPd4WgkIbHt","name":"Clara Weber","email":"clara.weber@example.com","phone":"17394826541","initials":"CW","color":"#f39c12"},
+            {"contactID":"R82d7Z8qj5JXpg4D","name":"David Müller","email":"david.mueller@example.com","phone":"17876543210","initials":"DM","color":"#e74c3c"}],
+            "subtasks":[
+                {"subTaskID":"ST1601","subTaskName":"Endpoints und Funktionen beschreiben","done":true},
+                {"subTaskID":"ST1602","subTaskName":"Beispielanfragen und -antworten hinzufügen","done":false},
+                {"subTaskID":"ST1603","subTaskName":"Fehlerbehandlung und Rückgabewerte erklären","done":false}
+            ]}
+    ],
+    "contacts": [
+        {
+            "contactID": "OknsyIS7PNlcblIQ",
+            "name": "Aida Steinbauer",
+            "email": "steinbauer@web.de",
+            "phone": "18227629765",
+            "initials": "AS",
+            "color": "#3904a3"
+        },
+        {
+            "contactID": "GVx2BZkhf4LgHXwm",
+            "name": "Benjamin Kaufmann",
+            "email": "benjamin.kaufmann@hotmail.de",
+            "phone": "17234218765",
+            "initials": "BK",
+            "color": "#1abc9c"
+        },
+        {
+            "contactID": "Vj9CmYPd4WgkIbHt",
+            "name": "Clara Weber",
+            "email": "clara.weber@web.com",
+            "phone": "17394826541",
+            "initials": "CW",
+            "color": "#f39c12"
+        },
+        {
+            "contactID": "R82d7Z8qj5JXpg4D",
+            "name": "David Müller",
+            "email": "david.mueller@gmail.com",
+            "phone": "17876543210",
+            "initials": "DM",
+            "color": "#e74c3c"
+        },
+        {
+            "contactID": "Jd4Y8bVgJlmSkR9v",
+            "name": "Eva Schmidt",
+            "email": "eva.schmidt@web.com",
+            "phone": "17023456789",
+            "initials": "ES",
+            "color": "#9b59b6"
+        },
+        {
+            "contactID": "Q1LuP7kIftYJtRgA",
+            "name": "Frank Hoffmann",
+            "email": "frank.hoffmann@hotmail.de",
+            "phone": "17765432109",
+            "initials": "FH",
+            "color": "#2980b9"
+        },
+        {
+            "contactID": "W3Z6dZ4hjTnqXcP2",
+            "name": "Gabriele Köhler",
+            "email": "gabriele.koehler@outlook.de",
+            "phone": "16876543210",
+            "initials": "GK",
+            "color": "#16a085"
+        },
+        {
+            "contactID": "D4Oxh8R2qJk2i9Bt",
+            "name": "Heinz Wagner",
+            "email": "heinz.wagner@outlook.com",
+            "phone": "16543210987",
+            "initials": "HW",
+            "color": "#34495e"
+        },
+        {
+            "contactID": "V6N9CuI3Dr7i6vT1",
+            "name": "Isabella Fischer",
+            "email": "isabella.fischer@gmail.com",
+            "phone": "17456473821",
+            "initials": "IF",
+            "color": "#e67e22"
+        },
+        {
+            "contactID": "N5KhLxM7RwGjB9Ds",
+            "name": "Jan Bauer",
+            "email": "jan.bauer@hotmail.de",
+            "phone": "17987654321",
+            "initials": "JB",
+            "color": "#c0392b"
+        },
+        {
+            "contactID": "A5MkR7xTnG8Z3HwD",
+            "name": "Karl Weber",
+            "email": "karl.weber@gmail.com",
+            "phone": "17654321098",
+            "initials": "KW",
+            "color": "#7f8c8d"
+        },
+        {
+            "contactID": "T3GzN2K6Cp9JzLqV",
+            "name": "Lena Schneider",
+            "email": "lena.schneider@hotmail.com",
+            "phone": "17276543210",
+            "initials": "LS",
+            "color": "#2ecc71"
+        },
+        {
+            "contactID": "F9NmJ6QkH5p2ZrdG",
+            "name": "Matthias Hoffmann",
+            "email": "matthias.hoffmann@web.de",
+            "phone": "17123456789",
+            "initials": "MH",
+            "color": "#9b59b6"
+        },
+        {
+            "contactID": "Q7JbP1L0Hs2Zd9Kr",
+            "name": "Nina Müller",
+            "email": "nina.mueller@web.com",
+            "phone": "17876543211",
+            "initials": "NM",
+            "color": "#f1c40f"
+        },
+        {
+            "contactID": "U2MwR8G3Sp0Vd1Xj",
+            "name": "Oliver Becker",
+            "email": "oliver.becker@outlook.com",
+            "phone": "17987654322",
+            "initials": "OB",
+            "color": "#f39c12"
+        },
+        {
+            "contactID": "B1HcM5K9I2QwL0Yu",
+            "name": "Paul Fischer",
+            "email": "paul.fischer@hotmail.de",
+            "phone": "17643210987",
+            "initials": "PF",
+            "color": "#8e44ad"
+        },
+        {
+            "contactID": "P7LqZ1W8Cm6TxO4V",
+            "name": "Quincy Weber",
+            "email": "quincy.weber@web.de",
+            "phone": "17432109876",
+            "initials": "QW",
+            "color": "#e74c3c"
+        }
+    ]
+}

@@ -43,19 +43,9 @@ class Tasks(models.Model):
     def __str__(self):
         return f"{self.title} {self.category} {self.priority}"
 
-class Subtasks(models.Model):
-    subTaskID = models.CharField(max_length=30, blank=True)
-    subTaskName = models.CharField(max_length=512)
-    done = models.BooleanField(default=False)
-    #task = models.ForeignKey(Tasks, on_delete=models.CASCADE, related_name="subtasks")
-
-    def __str__(self):
-        return self.subTaskName
-    
 
 class Users(models.Model):
     userId = models.CharField(max_length=30, blank=True)
-    #userData = models.ForeignKey(Contact, on_delete=models.CASCADE, related_name="user")
 
 
 class SummaryDetails(models.Model):
